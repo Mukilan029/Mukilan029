@@ -14,7 +14,7 @@
 ---
 
 ### 👦 About Me:
-- 🎓 I'm a **BCA Student** at [Your University Name].
+- 🎓 I'm a **BCA Student** at Crescent Institute of Science and Technology.
 - 🌱 I’m currently learning **Advanced React patterns** and **Machine Learning concepts**.
 - 👯 I’m looking to collaborate on **Open Source Frontend Projects**.
 - 🥅 2025 Goals: Contribute to a major open-source project and land a full-time developer role.

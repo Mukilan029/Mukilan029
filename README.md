@@ -7,7 +7,7 @@
     Hi there, I'm Mukilan 👋
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <h3>I'm a passionate Frontend Developer from India, with a keen interest in building beautiful and functional web applications.</h3>
+  <h3>I'm a passionate Coding Enthusiastic, with a keen interest in building beautiful and functional Projects.</h3>
   <p> 🔭 I’m currently working on enhancing my backend skills and exploring AI/ML. </p>
 </div>
 

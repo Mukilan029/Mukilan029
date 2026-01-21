@@ -15,7 +15,7 @@
 - 🥅 2025 Goals: Contribute to a major open-source project and land a full-time developer role.
 - ⚡ Fun fact: I believe any complex problem can be solved with enough coffee and a clear thought process.
 - 📫 How to reach me: **mukilanmukilan099@gmail.com**
-- 💼 My Portfolio: **[mukilanportfolio.lovable.app]((https://mukilan029.github.io/Portfolio/))**
+- 💼 My Portfolio: **((https://mukilan029.github.io/Portfolio/))**
 
 ---
 <br/>
